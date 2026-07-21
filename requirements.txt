@@ -1,0 +1,17 @@
+numpy>=1.23,<2.0
+opencv-python>=4.8
+Pillow>=9.5
+matplotlib>=3.6
+tqdm>=4.64
+scipy>=1.10
+shapely>=2.0
+PyYAML>=6.0
+pandas>=2.0
+torch>=2.1
+torchvision>=0.16
+ultralytics>=8.3
+
+# Required only for OCR-based ruler/header parsing.
+# PaddleOCR 3.x has a different runtime/API stack; pin 2.x for reproducible review.
+paddleocr>=2.7,<3.0
+paddlepaddle>=2.6,<3.0

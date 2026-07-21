@@ -1,0 +1,7 @@
+bar_chart
+extension_diagram
+legend
+line_chart
+others
+scatter_plot
+triangle_diagram

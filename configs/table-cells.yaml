@@ -1,0 +1,6 @@
+path: ../Geological_Time_Scale_Dataset/Instance_Segmentation_Data/cell_col
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: cell
